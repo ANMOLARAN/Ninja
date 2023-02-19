@@ -6,4 +6,8 @@
 p{
     font-size:12px;
     margin-top:12px;
+    padding:0 20px; 
+    width: 100%;
+    font-weight: bold;
+    background-color: red;
 }
